@@ -1,0 +1,2 @@
+I have added the jdk path to global tool configuration but still it is showing that no compiler is available in the environment. I tried it previously as well but same problem was happening.
+I have searched a lot on this, maybe its a platform issue or i am missing something.
